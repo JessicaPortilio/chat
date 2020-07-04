@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "16816999345",
+    "firebase_url": "https://oncoassay.firebaseio.com",
+    "project_id": "oncoassay",
+    "storage_bucket": "oncoassay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16816999345:android:ebff88e4e7ace4c5e60b90",
+        "android_client_info": {
+          "package_name": "portilio.com.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16816999345-9i4u3h0qj6gc9dbrobqtefnvpn4avu35.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "portilio.com.chat",
+            "certificate_hash": "9eaeb2c27b04c8968b4279d13320216e7155d150"
+          }
+        },
+        {
+          "client_id": "16816999345-7fjhkth1pun7jp62plr56tvavh1klaqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKYLhmsvn0pTu2RYvBhcPMb5ZrGX2C6I4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16816999345-7fjhkth1pun7jp62plr56tvavh1klaqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

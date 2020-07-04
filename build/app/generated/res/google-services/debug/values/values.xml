@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">16816999345-7fjhkth1pun7jp62plr56tvavh1klaqi.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://oncoassay.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">16816999345</string>
+    <string name="google_api_key" translatable="false">AIzaSyAKYLhmsvn0pTu2RYvBhcPMb5ZrGX2C6I4</string>
+    <string name="google_app_id" translatable="false">1:16816999345:android:ebff88e4e7ace4c5e60b90</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAKYLhmsvn0pTu2RYvBhcPMb5ZrGX2C6I4</string>
+    <string name="google_storage_bucket" translatable="false">oncoassay.appspot.com</string>
+    <string name="project_id" translatable="false">oncoassay</string>
+</resources>
